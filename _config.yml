@@ -1,10 +1,10 @@
-title: "Dave's Musings"
+title: "Dave's Blog"
 author: "Dave Lindqvist"
-description: "My musings to the masses about what I'm learning in tech!" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "`SELECT * FROM Extemporaneous_musings;`" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "DaveL.PharmD@gmail.com"
+# email: "davel.pharmd@gmail.com"
 github_username: "davelindqvist"
 linkedin_username: "dqve"
 #facebook_username: username
