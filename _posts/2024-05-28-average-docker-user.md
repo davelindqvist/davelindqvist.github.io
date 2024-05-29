@@ -1,4 +1,4 @@
-## Doctor Docker &rarr; Quack Docker &rarr; Your Average Docker User
+## Doctor Docker &rarr; Quack Docker &rarr; Docker User
 
 The first time I used Docker was for my [coding bootcamp](https://web.archive.org/web/20211208161720/https://www.learnhowtoprogram.com/ruby-and-rails/getting-started-with-ruby/faq-should-i-install-ruby-or-use-docker), circa 2021. To start my appreciation over this almighty software, I took on the arduous path of using Docker to work with Ruby on Rails instead running it on my machine with [chruby](https://github.com/postmodern/chruby). 
 
@@ -20,11 +20,11 @@ I let the knowledge gap persist all these years after until this past month, whe
 
 But I know I only scratched the surface for what Docker could do. I found and watched Adrian Cantrill's deeper dive on [the fundamentals of Docker](https://github.com/acantril/docker-fundamentals), which I **HIGHLY** recommend to get yourself situated if you're lost about what Docker can do for you.[^2] Once you complete that, I have a good feeling you'll know your way around building, composing, and creating Docker containers, and then inevitably become another Docker user like me!
 
-Try not to let the intimidating software stop you from learning Docker, like it did for me. If you're lost in the sauce with Docker, I'm still there with you! But there won't be any progress made until you sit down, tinker around, and dive deep into it. You will _get_ this, you spryly Dockerite![^3]
+Try not to let the intimidating software stop you from learning Docker, like it did for me. If you're lost in the sauce with Docker, I'm still there with you! But there won't be any progress made until you sit down, tinker around, and dive deep into it. You _got_ this, you future spry Dockerite![^3]
 
 Sincerely,
 
-Your Average Docker User Dave
+Your fellow-spry-docker-user Dave
 
 ---
 
